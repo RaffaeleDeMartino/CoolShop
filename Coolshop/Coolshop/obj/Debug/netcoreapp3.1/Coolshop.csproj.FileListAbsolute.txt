@@ -1,0 +1,11 @@
+/Users/raffaeledemartino/Projects/Coolshop/Coolshop/bin/Debug/netcoreapp3.1/Coolshop
+/Users/raffaeledemartino/Projects/Coolshop/Coolshop/bin/Debug/netcoreapp3.1/Coolshop.deps.json
+/Users/raffaeledemartino/Projects/Coolshop/Coolshop/bin/Debug/netcoreapp3.1/Coolshop.runtimeconfig.json
+/Users/raffaeledemartino/Projects/Coolshop/Coolshop/bin/Debug/netcoreapp3.1/Coolshop.runtimeconfig.dev.json
+/Users/raffaeledemartino/Projects/Coolshop/Coolshop/bin/Debug/netcoreapp3.1/Coolshop.dll
+/Users/raffaeledemartino/Projects/Coolshop/Coolshop/bin/Debug/netcoreapp3.1/Coolshop.pdb
+/Users/raffaeledemartino/Projects/Coolshop/Coolshop/obj/Debug/netcoreapp3.1/Coolshop.csprojAssemblyReference.cache
+/Users/raffaeledemartino/Projects/Coolshop/Coolshop/obj/Debug/netcoreapp3.1/Coolshop.AssemblyInfoInputs.cache
+/Users/raffaeledemartino/Projects/Coolshop/Coolshop/obj/Debug/netcoreapp3.1/Coolshop.AssemblyInfo.cs
+/Users/raffaeledemartino/Projects/Coolshop/Coolshop/obj/Debug/netcoreapp3.1/Coolshop.dll
+/Users/raffaeledemartino/Projects/Coolshop/Coolshop/obj/Debug/netcoreapp3.1/Coolshop.pdb
